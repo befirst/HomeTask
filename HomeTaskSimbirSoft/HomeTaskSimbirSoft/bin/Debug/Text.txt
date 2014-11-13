@@ -1,0 +1,29 @@
+Android is an operating system based on the 
+Linux kernel, and designed primarily for 
+touchscreen mobile devices such as smartphones 
+and tablet computers. Initially developed by 
+Android, Inc, which Google backed financially 
+and later bought in 2005, Android was unveiled 
+in 2007 along with the founding of the Open Handset 
+Alliance: a consortium of hardware, software, and 
+telecommunication companies devoted to advancing 
+open standards for mobile devices. The first 
+publicly available smartphone running Android, 
+the HTC Dream, was released on October 22, 2008. 
+The user interface of Android is based on direct 
+manipulation, using touch inputs that loosely 
+correspond to real-world actions, like swiping, 
+tapping, pinching and reverse pinching to 
+manipulate on-screen objects. Internal hardware 
+such as accelerometers, gyroscopes and proximity 
+sensors are used by some applications to respond 
+to additional user actions, for example adjusting 
+the screen from portrait to landscape depending 
+on how the device is oriented. Android allows users 
+to customize their home screens with shortcuts to 
+applications and widgets, which allow users to 
+display live content, such as emails and weather 
+information, directly on the home screen. Applications 
+can further send notifications to the user to inform 
+them of relevant information, such as new 
+emails and text messages. 

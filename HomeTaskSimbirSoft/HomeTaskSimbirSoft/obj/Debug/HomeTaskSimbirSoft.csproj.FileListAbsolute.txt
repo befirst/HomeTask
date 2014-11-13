@@ -1,0 +1,6 @@
+C:\Users\Денис\Documents\Visual Studio 2013\Projects\HomeTask\HomeTaskSimbirSoft\HomeTaskSimbirSoft\bin\Debug\HomeTaskSimbirSoft.exe.config
+C:\Users\Денис\Documents\Visual Studio 2013\Projects\HomeTask\HomeTaskSimbirSoft\HomeTaskSimbirSoft\bin\Debug\HomeTaskSimbirSoft.exe
+C:\Users\Денис\Documents\Visual Studio 2013\Projects\HomeTask\HomeTaskSimbirSoft\HomeTaskSimbirSoft\bin\Debug\HomeTaskSimbirSoft.pdb
+C:\Users\Денис\Documents\Visual Studio 2013\Projects\HomeTask\HomeTaskSimbirSoft\HomeTaskSimbirSoft\obj\Debug\HomeTaskSimbirSoft.csprojResolveAssemblyReference.cache
+C:\Users\Денис\Documents\Visual Studio 2013\Projects\HomeTask\HomeTaskSimbirSoft\HomeTaskSimbirSoft\obj\Debug\HomeTaskSimbirSoft.exe
+C:\Users\Денис\Documents\Visual Studio 2013\Projects\HomeTask\HomeTaskSimbirSoft\HomeTaskSimbirSoft\obj\Debug\HomeTaskSimbirSoft.pdb
